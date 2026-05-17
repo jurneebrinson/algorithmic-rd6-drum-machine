@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.venv/
+
+.DS_Store
+
+.vscode/
+.idea/
+
+saved_grooves/
+media/*.mid
+media/*.wav
+media/*.mp3
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
